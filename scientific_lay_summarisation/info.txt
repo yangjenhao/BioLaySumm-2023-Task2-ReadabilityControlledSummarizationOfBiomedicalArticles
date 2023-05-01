@@ -1,0 +1,8 @@
+Data is from
+"""
+input in terminal
+```sh=
+git lfs install
+git clone https://huggingface.co/datasets/tomasg25/scientific_lay_summarisation
+```
+"""
